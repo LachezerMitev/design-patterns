@@ -1,0 +1,13 @@
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.exe
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.deps.json
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.runtimeconfig.json
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.runtimeconfig.dev.json
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.dll
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.pdb
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.csprojAssemblyReference.cache
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.AssemblyInfoInputs.cache
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.AssemblyInfo.cs
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.dll
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.pdb
+C:\Users\Lachezar Mitev\source\repos\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.genruntimeconfig.cache
