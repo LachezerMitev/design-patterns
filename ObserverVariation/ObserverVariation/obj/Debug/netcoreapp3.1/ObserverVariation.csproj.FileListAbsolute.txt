@@ -1,0 +1,13 @@
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\bin\Debug\netcoreapp3.1\ObserverVariation.exe
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\bin\Debug\netcoreapp3.1\ObserverVariation.deps.json
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\bin\Debug\netcoreapp3.1\ObserverVariation.runtimeconfig.json
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\bin\Debug\netcoreapp3.1\ObserverVariation.runtimeconfig.dev.json
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\bin\Debug\netcoreapp3.1\ObserverVariation.dll
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\bin\Debug\netcoreapp3.1\ObserverVariation.pdb
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\obj\Debug\netcoreapp3.1\ObserverVariation.csprojAssemblyReference.cache
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\obj\Debug\netcoreapp3.1\ObserverVariation.AssemblyInfoInputs.cache
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\obj\Debug\netcoreapp3.1\ObserverVariation.AssemblyInfo.cs
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\obj\Debug\netcoreapp3.1\ObserverVariation.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\obj\Debug\netcoreapp3.1\ObserverVariation.dll
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\obj\Debug\netcoreapp3.1\ObserverVariation.pdb
+C:\Users\Lachezar Mitev\source\repos\ObserverVariation\ObserverVariation\obj\Debug\netcoreapp3.1\ObserverVariation.genruntimeconfig.cache
